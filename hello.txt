@@ -1,0 +1,6 @@
+Project: to-begin-or-not
+File: hello.txt
+
+Testing my first GitHub repository.
+Learning Git and GitHub basics.
+
